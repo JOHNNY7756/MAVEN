@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("woshi shuaige");
         System.out.println("datao study");
         System.out.println("datao study2");
+        System.out.println("datao study3");
     }
 }
