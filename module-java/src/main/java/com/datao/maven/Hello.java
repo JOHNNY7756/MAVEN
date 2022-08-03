@@ -12,5 +12,6 @@ public class Hello {
         System.out.println("datao study3");
         System.out.println("datao push test");
         System.out.println("datao pull test");
+        System.out.println("datao gitee test");
     }
 }
